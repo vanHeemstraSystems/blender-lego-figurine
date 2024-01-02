@@ -44,5 +44,6 @@ From the File menu choose:
 
 - Click **Export**
 
+See the file **Figurine.zmbx** in this repository.
 
 MORE ...
