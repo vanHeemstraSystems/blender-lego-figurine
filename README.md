@@ -10,3 +10,5 @@ Based on "LEGO Character Design: Texture your Character" at https://www.youtube.
 Based on "LEGO Character Design: Import a Minifigure into Blender" at https://www.youtube.com/watch?v=la1p25hzNt8
 
 Based on "Easy LEGO Character Animation with Mixamo - Blender Tutorial" at https://www.youtube.com/watch?v=8S90jv3ReNI
+
+Based on "Blender Bricks" at https://www.youtube.com/@blenderbricks
