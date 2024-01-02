@@ -34,6 +34,15 @@ Save the file as "Figurine"
 
 Figurine
 
+## 300 - Export the LEGO Figurine as a Cllada (.dae) file
+
+From the File menu choose:
+
+- **Export...**:
+
+  -- Format: **Blender Add-on (.zmbx)**
+
+- Click **Export**
 
 
 MORE ...
