@@ -30,7 +30,7 @@ Move the LEGO Head up so it fits the Neck.
 
 Save the file as "Figurine"
 
-
+![LEGO_Figurine](https://github.com/wvanheemstra/blender-lego-figurine/assets/1499433/b1426f99-5729-480e-bf63-8874b53dfe04)
 
 Figurine
 
