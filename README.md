@@ -15,6 +15,8 @@ Based on "Blender Bricks" at https://www.youtube.com/@blenderbricks
 
 Based on "Lego Walk Cycle in Blender Tutorial | Elliano_" at https://www.youtube.com/watch?v=9SgKGKcS-AQ
 
+Based on "How to Install the Blender Add on for Mecabricks - YouTube" at https://www.youtube.com/watch?v=8UTBY03wGmU
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
