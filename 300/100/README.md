@@ -6,7 +6,13 @@ Go to https://www.mecabricks.com/en/workshop/b82xRAbkv1z
 
 ## 200 - Add a LEGO Figurine
 
+Based on "How to build a LEGO Minifig with Mecabricks" at https://www.youtube.com/watch?v=qVVIBdjItWE
+
 In your empty workspace on MecaBricks construct a LEGO Figurine:
+
+In the library drop-down menu select "Minifigures".
+
+
 
 - Add LEGO Legs: **Mini Lower Part**:
   -- Crotch (#3815)
