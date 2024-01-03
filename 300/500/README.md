@@ -1,0 +1,3 @@
+# 500 - Exporting LEGO Figurine from Blender to BabylonJS
+
+...
