@@ -55,4 +55,4 @@ From the File menu choose:
 
 - Click **Export**
 
-See the file **Figurine.zmbx** in this repository.
+See the file **Figurine.zmbx** in the directory ```assets``` of this repository.
