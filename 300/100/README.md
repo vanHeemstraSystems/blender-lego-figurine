@@ -12,7 +12,9 @@ In your empty workspace on MecaBricks construct a LEGO Figurine:
 
 In the library drop-down menu select "Minifigures".
 
+![Mecabricks_Minifigures](https://github.com/vanHeemstraSystems/blender-lego-figurine/assets/1499433/3bd7446b-4c81-4417-ade0-8cc78395b4a1)
 
+Minifigures
 
 - Add LEGO Legs: **Mini Lower Part**:
   -- Crotch (#3815)
