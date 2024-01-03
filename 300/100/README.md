@@ -41,7 +41,7 @@ Minifigures
 
 Save the file as "Figurine"
 
-![LEGO_Figurine](https://github.com/wvanheemstra/blender-lego-figurine/assets/1499433/b1426f99-5729-480e-bf63-8874b53dfe04)
+![LEGO_Figurine](https://github.com/vanHeemstraSystems/blender-lego-figurine/assets/1499433/4f5f15d8-f589-45d5-9645-8382c61e8733)
 
 Figurine
 
