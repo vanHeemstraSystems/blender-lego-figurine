@@ -16,25 +16,28 @@ In the library drop-down menu select "Minifigures".
 
 Minifigures
 
-- Add LEGO Legs: **Mini Lower Part**:
+- From the Subfolder "Lower Parts" add LEGO Legs: **Mini Lower Part** (#73200):
   -- Crotch (#3815)
   -- Right Leg (#3816)
   -- Left Leg (#3817)
 
-Move the LEGO Legs up so the Feet rest on the ground.
+- Move the LEGO Legs up, by dragging the upwards facing green arrow, so the Feet rest on the ground at the world center where the x-axis and the y-axis cross. 
+- Set the color of the Mini Lower Part to the Solid material **Medium Stone Grey (194)**.
 
-- Add a LEGO Body: **Mini Upper Part No.3809**:
-  -- Chest (#3814d1064)
+- From the Subfolder "Upper Parts" add a LEGO Body: **Mini Upper Part** (#76382):
+  -- Chest (#3814)
   -- Right Arm (#3818v2)
   -- Right Hand (#3820v2)
   -- Left Arm (#3819v2)
   -- Left Hand (#3820v2.001)
 
-Move the LEGO Body up so it fits with the Legs.
+- Move the LEGO Body up so the Waist fits with the Legs.
+- Set the color of the Mini Upper Part to the Solid material **Medium Stone Grey (194)**.
 
-- Add a LEGO Head: **Mini Head** (#28621)
+- From the Subfolder "Heads" add a LEGO Head: **Mini Head** (#28621)
 
-Move the LEGO Head up so it fits the Neck.
+- Move the LEGO Head up so it fits the Neck.
+- Set the color of the Mini Upper Part to the Solid material **Medium Stone Grey (194)**.
 
 Save the file as "Figurine"
 
