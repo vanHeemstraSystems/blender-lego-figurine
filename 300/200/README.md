@@ -28,6 +28,11 @@ Let's start with some Add-ons. Click **Add-ons** from the left-hand menu of the 
 
 Click **Install** and go to the location on your computer where you previously downloaded the **MecaFig** zipped folder to. Click on the zipped folder and choose **Install Add-on**.
 
+Now that we have installed it, we need to enable it. In the **Search** textfield of the Blender Preferences window, type ```MecaFig``` and hit ENTER to get it listed.
+
+Make sure to check the checkbox in front of **3D View - MecaFig** so it is enabled.
+
+
 
 
 MORE ...
