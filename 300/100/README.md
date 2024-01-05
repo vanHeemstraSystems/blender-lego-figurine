@@ -63,6 +63,8 @@ To stylize our Figurine (for example, applying a logo to its outfit) we can cust
 
 It is recommended to use the Official Colors from LEGO, so any parts you use outside of this Figurine will match with your custom prints. See for the template ```assets/Official_Lego_Colors.png```.
 
+**TIP**: If using Photoshop as your image editor is not possible (because of it being costly), consider using a free online alternative called [Photopea](http://photopea.com/).
+
 ## 400 - Export the LEGO Figurine as a Blender (.zmbx) file
 
 From the File menu choose:
