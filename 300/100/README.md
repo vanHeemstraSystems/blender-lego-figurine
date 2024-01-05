@@ -16,6 +16,8 @@ Based on "How to build a LEGO Minifig with Mecabricks" at https://www.youtube.co
 
 **TIP**: To get an advanced catalog search for LEGO Bricks, browse https://www.bricklink.com/catalogSearch.asp
 
+**TIP**: To lookup a Brick by its identifier (i.e. a numeric value such as 4217), use ```http://www.mecabricks.com/en/parts?q=4217```
+
 In your empty workspace on MecaBricks construct a LEGO Figurine:
 
 In the library drop-down menu select "Minifigures".
