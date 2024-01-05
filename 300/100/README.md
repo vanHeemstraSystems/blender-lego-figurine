@@ -55,7 +55,13 @@ Save the file as "Figurine"
 
 Figurine
 
-## 300 - Export the LEGO Figurine as a Blender (.zmbx) file
+## 300 - Adding Custom Printing to the Figurine
+
+See also [Mecabricks Tutorial - Adding Custom Printing](https://www.youtube.com/watch?v=-7KeliTrkdg)
+
+To stylize our Figurine (for example, applying a logo to its outfit0 we can customize the look by adding custom printing.
+
+## 400 - Export the LEGO Figurine as a Blender (.zmbx) file
 
 From the File menu choose:
 
