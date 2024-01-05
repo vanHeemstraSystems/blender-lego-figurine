@@ -55,7 +55,7 @@ Save the file as "Figurine"
 
 Figurine
 
-## 300 - Adding Custom Printing to the Figurine
+## 300 - Adding Custom Printing to the LEGO Figurine
 
 See also [Mecabricks Tutorial - Adding Custom Printing](https://www.youtube.com/watch?v=-7KeliTrkdg)
 
