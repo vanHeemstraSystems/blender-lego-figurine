@@ -32,6 +32,7 @@ Now that we have installed it, we need to enable it. In the **Search** textfield
 
 Make sure to check the checkbox in front of **3D View MecaFig** so it is enabled.
 
+Then use the hamburger menu icon (i.e., three stacked lines) on the left bottom side of the Blender Preferences window to choose **Save Preferences**. Close the Blender Preferences window with the X at the top right corner.
 
 
 
