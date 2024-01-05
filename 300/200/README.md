@@ -26,7 +26,7 @@ With the new file opened in Blender, go to **Edit** and **Preferences**.
 
 Let's start with some Add-ons. Click **Add-ons** from the left-hand menu of the Blender Preferences window.
 
-Click **Install** a go to the location on your computer where you previously downloaded the **MecaFig** zipped folder to.
+Click **Install** and go to the location on your computer where you previously downloaded the **MecaFig** zipped folder to.
 
 
 
