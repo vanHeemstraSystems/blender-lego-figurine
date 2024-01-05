@@ -55,6 +55,8 @@ Save the file as "Figurine"
 
 Figurine
 
+**NOTE**: Do not worry that our current Figurine does not have a face (i.e., eyes and mouth). In the following sections we will be applying facial expressions using Blender with MecaFace.
+
 ## 300 - Adding Custom Printing to the LEGO Figurine
 
 See also [Mecabricks Tutorial - Adding Custom Printing](https://www.youtube.com/watch?v=-7KeliTrkdg)
@@ -64,6 +66,8 @@ To stylize our Figurine (for example, applying a logo to its outfit) we can cust
 It is recommended to use the Official Colors from LEGO, so any parts you use outside of this Figurine will match with your custom prints. See for the template ```assets/Official_Lego_Colors.png```.
 
 **TIP**: If using Photoshop as your image editor is not possible (because of it being costly), consider using a free online alternative called [Photopea](http://photopea.com/).
+
+**NOTE**: Avoid creating a face on our Figurine (like eyes and a mouth) as we will be creating these in the following sections using Blender and MecaFace.
 
 ## 400 - Export the LEGO Figurine as a Blender (.zmbx) file
 
