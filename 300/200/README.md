@@ -16,7 +16,11 @@ Once downloaded, install Blender.
 
 When Blender is installed, the **Quick Setup** will present you with a couple of setup options (such as language, shortcuts, select with, spacebar, and theme). It is recommended to leave the defaults, and click **Next**. And then open up a *New File* of type **General**.
 
+## 200 - Set Preferences in Blender
 
+With the new file opened in Blender, go to **Edit** and **Preferences**.
+
+Let's start with some Add-ons. Click **Add-ons** from the left-hand menu of the Blender Preferences window.
 
 
 
