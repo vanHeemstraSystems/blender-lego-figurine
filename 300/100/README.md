@@ -10,7 +10,9 @@ Based on "How to build a LEGO Minifig with Mecabricks" at https://www.youtube.co
 
 **TIP**: To get an idea of different LEGO minifigures as they are called, see https://www.mecabricks.com/en/library/minifigs
 
-**TIP**: To see a finished LEGO Figurine, followed below instructions, see ...
+**TIP**: To see a finished LEGO Figurine, followed below instructions, see ```Figurine``` at https://www.mecabricks.com/en/account/library.
+
+**NOTE**: To save a custom LEGO minifig, it is recommended to save it as *MOC*, not *LEGO minifig*. LEGO minifig is only for official minifigs.
 
 **TIP**: To get an advanced catalog search for LEGO Bricks, browse https://www.bricklink.com/catalogSearch.asp
 
