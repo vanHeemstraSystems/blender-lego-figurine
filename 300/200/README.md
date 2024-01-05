@@ -34,6 +34,14 @@ Make sure to check the checkbox in front of **3D View MecaFig** so it is enabled
 
 Then use the hamburger menu icon (i.e., three stacked lines) on the left bottom side of the Blender Preferences window to choose **Save Preferences**. Close the Blender Preferences window with the X at the top right corner. Along the right-hand side of the workspace in Blender you should see **MecaFig** written at a 90-degree angle.
 
-## 400 - ...
+## 400 - Using MecaFig inside Blender
+
+Click on the newly installed add-in called **MecaFig**, which should show at a 90-degree angle on the right-hand side of a workspace in Blender.
+
+This will import a fresh LEGO Minifig complete with rigs.
+
+We will replace this default LEGO Minifig with our previously exported LEGO Figurine, as follows:
+
+
 
 MORE ...
