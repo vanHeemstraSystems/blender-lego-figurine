@@ -20,7 +20,7 @@ Once downloaded, install Blender.
 
 When Blender is installed, the **Quick Setup** will present you with a couple of setup options (such as language, shortcuts, select with, spacebar, and theme). It is recommended to leave the defaults, and click **Next**. And then open up a *New File* of type **General**.
 
-## 300 - Set Preferences in Blender
+## 300 - Set Preferences in Blender for MecaFig
 
 With the new file opened in Blender, go to **Edit** and **Preferences**.
 
@@ -32,8 +32,8 @@ Now that we have installed it, we need to enable it. In the **Search** textfield
 
 Make sure to check the checkbox in front of **3D View MecaFig** so it is enabled.
 
-Then use the hamburger menu icon (i.e., three stacked lines) on the left bottom side of the Blender Preferences window to choose **Save Preferences**. Close the Blender Preferences window with the X at the top right corner.
+Then use the hamburger menu icon (i.e., three stacked lines) on the left bottom side of the Blender Preferences window to choose **Save Preferences**. Close the Blender Preferences window with the X at the top right corner. Along the right-hand side of the workspace in Blender you should see **MecaFig** written at a 90-degree angle.
 
-
+## 400 - ...
 
 MORE ...
