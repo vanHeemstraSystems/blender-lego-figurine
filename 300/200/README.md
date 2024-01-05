@@ -42,6 +42,6 @@ This will import a fresh LEGO Minifig complete with rigs.
 
 We will replace this default LEGO Minifig with our previously exported LEGO Figurine, as follows:
 
-Click **Add Figure** from the MecaFig menu along the right-hand side of the workspace of Blender and select your previously saved LEGO Figurine that was exported from Mecabricks as *Figurine.zmbx* (and is also stored here in the repository as ```assets/Figure.zmbx```).
+Click **Add Figure** from the MecaFig menu along the right-hand side of the workspace of Blender and select your previously saved LEGO Figurine that was exported from Mecabricks as *Figurine.zmbx* (and is also stored here in the repository as ```assets/Figurine.zmbx```).
 
 MORE ...
