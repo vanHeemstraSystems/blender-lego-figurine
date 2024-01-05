@@ -48,8 +48,16 @@ Click **Add Figure** from the MecaFig menu along the right-hand side of the work
 
 For a more *Human-like* behaviour with bendy arm and legs, the ```Soft``` option is better than the default ```Rigid``` option of the rigs for our Figurine.  Hence we can switch from ```Rigid``` to ```Soft``` when choosing the specific rig from the drop down menu of MecaFig. Also explained in detail at https://youtu.be/IyJliZ-hfYY?t=101
 
+## 600 - Purchase MecaFace from Mecabricks shop
 
+**NOTE**: Instead of applying facial expressions to a self-made LEGO Figurine from Mecabricks, that needs texturizing in Blender, we can buy ($25.00) a MecaFace (see https://www.mecabricks.com/en/shop/product/6) directly from Mecabricks that is ready to be used in Blender. See [BASICALLY how to use MecaFace](https://www.youtube.com/watch?v=W5EuFex8Kxg).
 
+We will use the above-mentioned MecaFace plugin for Blender following the tutorial, and apply the facial expressions to our previously created LEGO Figurine, so we have the best of both worlds: Easy and Speed of Facial Expressions with a Customized Figure!
 
+So go ahead and buy [MecaFace from the Mecabricks Shop](https://www.mecabricks.com/en/shop/product/6) and download the zipped file to your computer. Memorize where you downloaded it to for later use.
+
+## 700 - Add Facial Expressions to LEGO Figurine with MecaFace
+
+See [BASICALLY how to use MecaFace](https://www.youtube.com/watch?v=W5EuFex8Kxg).
 
 MORE ...
