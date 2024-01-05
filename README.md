@@ -17,6 +17,8 @@ Based on "Lego Walk Cycle in Blender Tutorial | Elliano_" at https://www.youtube
 
 Based on "How to Install the Blender Add on for Mecabricks - YouTube" at https://www.youtube.com/watch?v=8UTBY03wGmU
 
+**TIP**: Have a look at "How fan films shaped The Lego Movie" at https://www.youtube.com/watch?v=TVe5XPU10Zc
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
