@@ -61,6 +61,8 @@ See also [Mecabricks Tutorial - Adding Custom Printing](https://www.youtube.com/
 
 To stylize our Figurine (for example, applying a logo to its outfit) we can customize the look by adding custom printing.
 
+It is recommended to use the Official Colors from LEGO, so any parts you use outside of this Figurine will match with your custom prints. See for the template ```assets/Official_Lego_Colors.png```.
+
 ## 400 - Export the LEGO Figurine as a Blender (.zmbx) file
 
 From the File menu choose:
