@@ -59,7 +59,7 @@ Figurine
 
 See also [Mecabricks Tutorial - Adding Custom Printing](https://www.youtube.com/watch?v=-7KeliTrkdg)
 
-To stylize our Figurine (for example, applying a logo to its outfit0 we can customize the look by adding custom printing.
+To stylize our Figurine (for example, applying a logo to its outfit) we can customize the look by adding custom printing.
 
 ## 400 - Export the LEGO Figurine as a Blender (.zmbx) file
 
