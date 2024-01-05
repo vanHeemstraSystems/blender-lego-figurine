@@ -8,6 +8,10 @@ Based on "How To Make A Lego Animation In Blender (2023 Updated) | Part 1 - Mode
 
 We will use the above-mentioned MecaFig plugin for Blender following the tutorial, and apply the rig to our previously created LEGO Figurine, so we have the best of both worlds: Easy and Speed of Rigging with a Customized Figure!
 
+## 100 - Install Blender
+
+Go to blender.org, do **not** go to blender.com. Go to the [download page](https://www.blender.org/download/) and click **Download Blender *version***. Choose the edition that matches with your Operating System (OS).
+
 
 
 MORE ...
