@@ -44,4 +44,12 @@ We will replace this default LEGO Minifig with our previously exported LEGO Figu
 
 Click **Add Figure** from the MecaFig menu along the right-hand side of the workspace of Blender and select your previously saved LEGO Figurine that was exported from Mecabricks as *Figurine.zmbx* (and is also stored here in the repository as ```assets/Figurine.zmbx```).
 
+## 500 - Choose Soft instead of Rigid for the Figurine
+
+For a more *Human-like* behaviour with bendy arm and legs, the ```Soft``` option is better than the default ```Rigid``` option of the rigs for our Figurine.  Hence we can switch from ```Rigid``` to ```Soft``` when choosing the specific rig from the drop down menu of MecaFig. Also explained in detail at https://youtu.be/IyJliZ-hfYY?t=101
+
+
+
+
+
 MORE ...
