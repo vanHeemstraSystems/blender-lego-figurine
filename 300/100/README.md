@@ -8,6 +8,12 @@ Go to https://www.mecabricks.com/en/workshop/b82xRAbkv1z
 
 Based on "How to build a LEGO Minifig with Mecabricks" at https://www.youtube.com/watch?v=qVVIBdjItWE
 
+**TIP**: To get an idea of different LEGO minifigures as they are called, see https://www.mecabricks.com/en/library/minifigs
+
+**TIP**: To see a finished LEGO Figurine, followed below instructions, see ...
+
+**TIP**: To get an advanced catalog search for LEGO Bricks, browse https://www.bricklink.com/catalogSearch.asp
+
 In your empty workspace on MecaBricks construct a LEGO Figurine:
 
 In the library drop-down menu select "Minifigures".
