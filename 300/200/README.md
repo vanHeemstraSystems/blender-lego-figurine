@@ -12,6 +12,12 @@ We will use the above-mentioned MecaFig plugin for Blender following the tutoria
 
 Go to blender.org, do **not** go to blender.com. Go to the [download page](https://www.blender.org/download/) and click **Download Blender *version***. Choose the edition that matches with your Operating System (OS).
 
+Once downloaded, install Blender.
+
+When Blender is installed, the **Quick Setup** will present you with a couple of setup options (such as language, shortcuts, select with, spacebar, and theme). It is recommended to leave the defaults, and click **Next**. And then open up a *New File* of type **General**.
+
+
+
 
 
 MORE ...
